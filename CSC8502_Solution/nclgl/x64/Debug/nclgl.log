@@ -1,0 +1,5 @@
+﻿  Camera.cpp
+C:\Users\upsid\Desktop\CSC8502_CW\CSC8502_Solution\nclgl\Camera.cpp(44,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\CSC8502_CW\CSC8502_Solution\nclgl\Camera.cpp(45,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\Desktop\CSC8502_CW\CSC8502_Solution\nclgl\Camera.cpp(140,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  nclgl.vcxproj -> C:\Users\upsid\Desktop\CSC8502_CW\CSC8502_Solution\x64\Debug\nclgl.lib
