@@ -1,6 +1,8 @@
 # Advanced-Graphics-Coursework
 An OpenGL scene created for the advanced graphics for games module
 
+Video: https://youtu.be/dh0CFeyGFhA
+
 ![Screenshot](scene.png)
 
 - The scene features an island landscape with textures for rock, sand, and grass terrains.
